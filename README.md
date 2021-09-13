@@ -1,2 +1,13 @@
 # AmajanoVHA2013
-Respirometry data of the sea anemone Anemonia majano treated with the VHA inhibitor bafilomycin or DMSO
+
+This repository contains the raw data that accompanies the manuscript:
+Barott, Katie, Angus Thies, and Martin Tresguerres. V-type H+-ATPase in the symbiosome membrane is a conserved mechanism for host-control of photosynthesis in anthozoan photosymbioses. (unpublished) 
+
+Abstract: 
+In reef-building corals (order Scleractinia) and giant clams (phylum Molluca), V-type H+- ATPase (VHA) in host cells is part of a carbon concentrating mechanism (CCM) that regulates photosynthetic rates of their symbiotic algae. Here, we show that VHA plays a similar role in the sea anemone Anemonia majano, a member of the order Actinaria and sister group to the Scleractinia, which in contrast to their colonial calcifying coral relatives, is a solitary, soft-bodied taxa. Western blotting and immunofluorescence revealed that VHA was abundantly present in the host-derived symbiosome membrane surrounding the photosymbionts. Pharmacological inhibition of VHA activity in individual anemones resulted in a ~80% decrease of photosynthetic O2 production. These results extend the presence of a host controlled VHA-dependent CCM to non-calcifying cnidarians of the order Actiniaria, suggesting it is widespread among photosymbiosis between aquatic invertebrates and Symbiodiniaceae algae. 
+
+Repository contents:
+Raw respirometry data of the sea anemone Anemonia majano treated with the VHA inhibitor bafilomycin or DMSO and accompanying analyses. 
+
+Method: 
+Individual anemones were placed in 5 ml sealed glass chambers filled with 0.2 μm filtered seawater (FSW). Chambers were kept at 26°C by immersing the vials in a water bath, and the water within each chamber was circulated using a magnetic stir bar. Anemones were illuminated with 150 μmol m-2 s-1 light. A Clark-type oxygen electrode (Unisense, Aarhus, Denmark) was inserted into the vial through a capillary port in the lid, and the dissolved oxygen (DO) concentration was recorded once per second (MicOx software; Unisense). The oxygen probe was calibrated prior to each use with a 2-point calibration curve using a freshly prepared solution of 0.1 M NaOH, 0.1 M sodium ascorbate (0% DO) or 100% air-saturated seawater. Oxygen evolution rates for each anemone were measured in FSW until a steady slope was attained for at least 15 minutes. The water was then replaced with either 0.5% v/v DMSO (carrier control) or 500 nM bafilomycin A1 (Sigma, St. Louis MO, USA) in FSW, and oxygen evolution rates were measured for 30 minutes. A paired t-test was used to test for significant differences in oxygen evolution between the initial FSW rate vs. treatment (DMSO or bafilomycin A1; N=5 anemones per treatment). 
